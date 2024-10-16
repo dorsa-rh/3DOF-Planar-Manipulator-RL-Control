@@ -46,3 +46,11 @@ This project demonstrates the control of a 3-degree-of-freedom (3DOF) planar man
   - Gymnasium for environment creation and management.
   - Stable-Baselines3 for RL algorithm implementation.
   - NumPy and Matplotlib for numerical calculations and visualizations.
+
+
+## Visualization
+
+- The simulation includes a graphical display of the manipulator, target, and obstacle in the 2D plane.
+- The progress of the manipulator’s end-effector towards the target and its interaction with the obstacle is shown in real time.
+- **Watch the simulation video**: [Watch the video](https://github.com/dorsa-rh/Quadrotor-modern-control/blob/main/result.MP4)
+  
